@@ -1,2 +1,26 @@
 # Metodos-ordenamiento
-El objetivo de este proyecto es evaluar el rendimiento de 15 métodos de ordenamiento diferentes al momento de organizar de forma descendente los precios de productos vendidos a través de la plataforma Amazon.
+
+## Estructura del proyecto
+```bash
+  Metodos-ordenamiento/
+  ├── Métodos adicionales
+  │   ├── Brick Sort
+  │   ├── Bead Sort
+  │   ├── Greedy Sort
+  │   ├── Batcher's Odd-Even Merge Sort
+  │   ├── Odd-Even Sort
+  │   ├── README.md
+  ├── Métodos expuestos
+  │   ├── Bubble Sort
+  │   ├── Bubble Sort Mejorado
+  │   ├── Cocktail Sort
+  │   ├── Selection Sort
+  │   ├── Insertion Sort
+  │   ├── Gnome Sort
+  │   ├── Shell Sort
+  │   ├── Merge Sort
+  │   ├── Quick Sort
+  │   ├── Radix Sort
+  │   ├── README.md
+  ├── README.md
+```
