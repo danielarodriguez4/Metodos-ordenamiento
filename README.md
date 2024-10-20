@@ -18,8 +18,8 @@ Ahora que haz descargado la base de datos, navega dentro de las carpetas de este
   Metodos-ordenamiento/
   ├── Métodos adicionales
   │   ├── Brick Sort
-  │   ├── Bead Sort
-  │   ├── Greedy Sort
+  │   ├── Balanced Merge Sort
+  │   ├── Binary Insertion Sort
   │   ├── Batcher's Odd-Even Merge Sort
   │   ├── Odd-Even Sort
   │   ├── README.md
