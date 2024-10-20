@@ -11,7 +11,7 @@ Cada carpeta de este repositorio continene métodos de ordenamiento que organiza
 5. Del lado derecho de la vista, verás una parte de la DB.
 6. Haz click en la flecha que aparece a la izquierda de `Backpacks.csv` para descargar.
 
-Ahora que haz descargado la base de datos, navega dentro de las carpetas de este repositorio para ejecutar los métodos de ordenamiento. Las instrucciones de ejecución están en los README.md de cada carpeta.
+Ahora que has descargado la base de datos, navega dentro de las carpetas de este repositorio para ejecutar los métodos de ordenamiento. Las instrucciones de ejecución están en los README.md de cada carpeta.
 
 ## Estructura del proyecto
 ```bash
